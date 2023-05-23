@@ -1,0 +1,4 @@
+opencv-python
+jiwer
+imutils
+pytesseract
